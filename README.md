@@ -1,4 +1,4 @@
-# Hello There! My name is Andrew Yturaldi 😁
+# Hello There! My name is Andrew Yturaldi 😎
 🌎 I am a front-end web developer and student programmer near Dallas, TX 
 
 Skills
