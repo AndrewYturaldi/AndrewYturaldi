@@ -3,8 +3,8 @@
 
 Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,java,git,linux)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,java,git,linux)](https://skillicons.dev)
 
 Currently Learning
 
-[![Currently Learning](https://skillicons.dev/icons?i=js,react,figma)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=react,figma)](https://skillicons.dev)
