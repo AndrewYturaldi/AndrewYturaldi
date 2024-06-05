@@ -1,4 +1,4 @@
-# Hello There! My name is Andrew Yturaldi ![ClassicSmileyFace3Mini](https://github.com/AndrewYturaldi/VerbVista-Site/assets/131637136/bb4bcd85-2008-4297-87e6-fbb23098d38e)
+# Hello There! My name is Andrew Yturaldi ![ClassicSmileyFace3Mini](https://github.com/AndrewYturaldi/VerbVista-Site/assets/131637136/c3bea0a4-a11a-46f5-9886-16b741c2852d)
 🌎 I am a front-end web developer and student programmer near Dallas, TX 
 
 ### Skills
