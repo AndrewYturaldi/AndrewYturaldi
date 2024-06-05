@@ -1,4 +1,4 @@
-# Hello There! My name is Andrew Yturaldi 😎
+# Hello There! My name is Andrew Yturaldi ![ClassicSmileyFace2](https://github.com/freeCodeCamp/freeCodeCamp/assets/131637136/34e3341f-f014-45d2-876e-99f5827397e8)
 🌎 I am a front-end web developer and student programmer near Dallas, TX 
 
 ### Skills
