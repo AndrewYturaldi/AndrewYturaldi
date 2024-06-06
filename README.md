@@ -7,7 +7,7 @@
 
 ### Currently Learning
 
-[![Currently Learning](https://skillicons.dev/icons?i=react,figma)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=react,sass,figma)](https://skillicons.dev)
 
 ### Socials
 
